@@ -1,0 +1,51 @@
+# ──────────────────────────────
+# Entornos virtuales / Conda
+# ──────────────────────────────
+env/
+venv/
+.venv/
+*.conda
+*.env
+*.egg-info/
+
+# ──────────────────────────────
+# Cachés de Python
+# ──────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ──────────────────────────────
+# Modelos muy pesados (binarios grandes)
+# ──────────────────────────────
+*.onnx
+*.h5
+*.engine
+*.weights
+*.ckpt
+*.joblib
+*.pkl
+
+# ──────────────────────────────
+# Datos voluminosos
+# ──────────────────────────────
+data/raw/
+data/interim/
+data/processed/
+data/external/
+
+# ──────────────────────────────
+# Archivos temporales del sistema
+# ──────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+
+# ──────────────────────────────
+# IDE / Editor settings
+# ──────────────────────────────
+.vscode/
+.idea/
+*.code-workspace
