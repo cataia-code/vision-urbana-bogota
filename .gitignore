@@ -31,13 +31,14 @@ __pycache__/
 # ──────────────────────────────
 # Datos voluminosos
 # ──────────────────────────────
+data/
 data/raw/
 data/interim/
 data/processed/
 data/external/
 data/test/
-/home/guardiaserver/bogota/vision-urbana-bogota/models/
-
+models/
+configs/
 # ──────────────────────────────
 # Archivos temporales del sistema
 # ──────────────────────────────
