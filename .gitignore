@@ -35,6 +35,8 @@ data/raw/
 data/interim/
 data/processed/
 data/external/
+data/test/
+/home/guardiaserver/bogota/vision-urbana-bogota/models/
 
 # ──────────────────────────────
 # Archivos temporales del sistema
