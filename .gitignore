@@ -39,6 +39,7 @@ data/external/
 data/test/
 models/
 configs/
+results/
 # ──────────────────────────────
 # Archivos temporales del sistema
 # ──────────────────────────────
