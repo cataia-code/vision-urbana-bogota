@@ -1,6 +1,6 @@
 # 🚦 **Bogotá Traffic Vision**
 
-[![Ultralytics CI](https://img.shields.io/badge/Ultralytics%20CI-passing-brightgreen)](https://github.com/ultralytics/ultralytics/actions)  [![Open in Kaggle](https://img.shields.io/badge/Open_in-Kaggle-blue)]() [![Paper (PDF)](https://drive.google.com/file/d/1voYwoui9uE1eeHH7lskjdRdDJow13RoI/view?usp=sharing)
+[![Ultralytics CI](https://img.shields.io/badge/Ultralytics%20CI-passing-brightgreen)](https://github.com/ultralytics/ultralytics/actions)  [![Open in Kaggle](https://img.shields.io/badge/Open_in-Kaggle-blue)]() [![Paper (PDF)](https://drive.google.com/file/d/1voYwoui9uE1eeHH7lskjdRdDJow13RoI/view?usp=sharing)]
 
 An intelligent, real-time vehicle flow detection system for optimizing urban mobility in Bogotá using state-of-the-art computer vision and deep learning techniques. Leveraging Python, OpenCV, Ultralytics YOLO, and BYTETRACK, this framework ingests live or recorded video streams from existing CCTV infrastructure, processes each frame for object detection, tracks vehicle trajectories, and performs line-cross counting to yield accurate vehicle flow statistics in under 10 ms per frame. Its modular design allows seamless benchmarking across multiple YOLO variants, facilitating data-driven decisions for adaptive traffic signaling and congestion management. 🏙️🚗
 
