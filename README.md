@@ -111,4 +111,3 @@ jupyter nbconvert --to notebook --execute notebooks/04_video_inference.ipynb
 ## 🖋️ Authors
 
 * **Briyid Catalina Cruz Ostos** ([bccruzo@udistrital.edu.co](mailto:bccruzo@udistrital.edu.co))
-* **Sergio David Bohada Vargas** ([sdbohadav@udistrital.edu.co](mailto:sdbohadav@udistrital.edu.co))
